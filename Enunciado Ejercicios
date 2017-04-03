@@ -1,0 +1,72 @@
+  Enunciados de los ejercicios:  
+Ejercicio1: Juan gana 100$, pedro gana 200$, el costo de la hora es 10$  1) mostrar el sueldo que sea más alto  2) quien trabaja menos horas  3) mostrar la suma de los sueldos  
+Ejercicio2: Lado=5, muestren la superficie del cuadrado, cuando este vale 5, formula (lado x lado)  
+Ejercicio3: A1=1000, A2=500, A3=700, A4=1000 Realizar el producto de cada variable (ósea multiplicar por 2) después preguntar si A1 mas A2 es mayor que A3 mas A4, si es mayor ponemos el valor de A1 y A2 (por separado), si no es mayor (ósea menor o igual) ponemos el valor de A3 y A4. Indicar que valor es el  menor (de los 4).  
+Ejercicio4: Total preguntas=50, preguntas correctas=30 sacar el porcentaje de Preguntas contestadas correctamente si el porcentaje es mayor igual a 90, visualizamos "nivel máximo" si esta entre 75 y 89 visualizamos nivel medio" si esta entre 50 y 74 visualizamos "nivel regular" y si es menor a 50 visualizamos "nivel bajo".  
+Ejercicio5: Solicitar el ingreso del nombre y la edad de 2 personas, mostrar el nombre de la persona con mayor edad  
+Ejercicio6:  Se carga una fecha (día mes año) por teclado, mostrar un mensaje que diga fecha correcta si corresponde al primer trimestre del año.  
+Ejercicio7:  Realizar la carga del lado de 1 cuadrado mostrar por pantalla el perímetro del mismo (el perímetro de 1 cuadrado calcula multiplicando el valor del lado x 4)  
+Ejercicio8: Escribir un programa (clase) en el cual se ingrese 4 números, calcular e informar la suma de los 2 primeros y el producto del 3ro y el 4to  
+Ejercicio9: Realizar una clase que lea 4 valores numéricos e informar su suma y promedio.  
+Ejercicio10: Se debe desarrollar un programa que pida el ingreso del precio de un artículo y la cantidad que lleva el cliente, mostrar lo que debe abonar el comprador.  
+Ejercicio11: Realizar un programa que lea por teclado 2 números, si el 1ro es mayor al 2do informar su suma y diferencia en caso contrario, informar el producto y la división  del 1ro respecto al 2do validar que no sea 0.  
+Ejercicio12: Se ingresan 3 notas de un alumno si el promedio es mayor o igual a 7 mostrar mensaje  diciendo promocionado.  
+Ejercicio13: Se cargan por teclado 3 números distintos y se visualiza el mayor de ellos.  
+Ejercicio14: Se ingresa por teclado un valor entero, mostrar una leyenda que indique si el número es positivo, nulo o negativo. 
+  IRSO –     
+3     
+Ejercicio15: Confeccionar un programa que permita cargar un número entero positivo de hasta 3 cifras y muestre un mensaje indicando si tiene 1,2 o 3 cifras, mostrar un mensaje de error si el número de cifras es mayor.  
+Ejercicio16: Realizar un programa que pida cargar una fecha cualquiera, luego verificar si dicha fecha corresponde a navidad.  
+Ejercicio17: Se ingresan 3 valores por teclado, si todos son iguales se imprime la suma de el 1ro con el 2do y a este resultado se lo multiplica por el 3ro.  
+Ejercicio18: Se ingresa por teclado 3 números, si todos los valores ingresados son menores a 10 imprimir en pantalla la leyenda, todos los números son menores a 10.  
+Ejercicio19: Se ingresa por teclado 3 números, si al menos 1 de los valores ingresados es menor a 10 imprimir la leyenda, alguno de los números es menor a 10.  
+Ejercicio20: Escribir un programa que pida ingresar la coordenada de un punto en el plano es decir 2 valores enteros. X e Y (ambos distintos a 0) posteriormente imprimir en pantalla en que cuadrante se ubica dicho punto. Primer cuadrante: si x es mayor a 0 e Y es mayor a 0 segundo cuadrante menor a 0 e Y mayor a 0 tercer cuadrante mayor a 0 e Y menor a 0 cuarto cuadrante el resto.  
+Ejercicio21: De 1 operario se conoce su sueldo y los años de antigüedad se pide confeccionar un programa que lea los datos de entrada e informe lo siguiente A) Si el sueldo es inferior a 500 y su antigüedad es igual o superior a 10 años otorgar un aumento del 20% y mostrar el sueldo a pagar. B) si el sueldo es inferior a 500 pero su antigüedad es menor a 10 años otorgar un aumento del 5% y después mostrar el sueldo a pagar C) Si el sueldo es mayor a 500, mostrar el sueldo en pantalla sin cambios.  
+Ejercicio22: Escribir un programa que solicite ingresar 10 notas de 20 alumnos y nos informe cuantos tienen notas mayores o iguales a 7 y cuantos menores.  
+Ejercicio23: Se ingresa un conjunto de 15 alturas de personas por teclado mostrar la altura promedio de las personas.  
+Ejercicio24: Desarrollar un programa que permita cargar 5 nombres de personas y sus edades respectivas luego de realizar la carga por teclado de los datos, mostrar los nombres de las personas mayores o iguales a 18 años.  
+Ejercicio25: Confeccionar un programa que permita cargar los nombres de 5 operarios y sus sueldos respectivos mostrar el sueldo mayor y el nombre del operario.  
+Ejercicio26: Se debe crear un vector donde se almacene 5 sueldos, ordenar el vector sueldo de menor a mayor y mostrarlo  
+Ejercicio27: 
+  IRSO –     
+4  
+Ingresar un mes, y poner los siguientes valores de cotización para los días.  Dia1=4.30  Dia2=4.26  Dia5=4.40  Dia7=4.20  Dia14=4.40  Dia20=4.41 Dia29=4.18 Al resto de los días ingresarle el valor 0.  
+Ejercicio28: Crear y cargar una matriz de 3 filas x 4 columnas. Imprimir la 1er fila, la ultima fila y la 1ra columna y ultima columna.  
+Ejercicio29: Crear y cargar una matriz de 3 filas x 4 columnas. Imprimir la 1er fila, la ultima fila y la 1ra columna y ultima columna.  
+Ejercicio30: Crear una matriz de 2 filas y 5 columnas, realizar la carga de los componentes por columna es decir primero ingresar toda la 1er columna luego la 2da y así sucesivamente. Imprimir la matriz en forma correcta.  
+Ejercicio31: Generar suma de 5 números y mostrar la suma de los 5, generar multiplicación, multiplicar los 5 números y mostrarlos. Cargar vector con 10 elementos mostrar promedio mostrar mayor valor mostrar menor valor mostrar vector ordenado (menor a mayor).  
+Ejercicio32:  Package1-clase 1- Método 1: cargar un vector de 10 posiciones con números pares. Método 2: cargar otro vector de 10 posiciones con números impares. Método 3: sumar el contenido de los 2 vectores y visualizar. Clase 2- Llamar a todos los métodos de la clase1. Cargar un vector de 5 posiciones. Package2-clase 3-  Llamar a los métodos de la clase 1 y la clase 2 del package 1 y cargar una matriz de 2x4 y visualizarla.  
+Ejercicio33:  Package - Clase1 - (Ingresar 3 personas - (nombre y apellido, con sus edades y su sexo)). Método 1: mostrar nombre. Apellido y edad del mayor de edad. Método 2: mostrar nombre. Apellido y edad del menor de edad. Método 3: promedio de edades, mostrar. Método 4: mostrar los nombres de las mujeres. Método 5: mostrar todas las personas y sus datos. Clase2 - ingresar un día de la semana (lunes, martes etc.).Mostrar todos los métodos de la clase1 y si los días son martes o jueves.  
+Ejercicio34:  Package1 - Clase1 - ingresar nombre apellido, cantidad materias de la carrera, materias aprobadas final (detalle-descripción y nota). Método 1: mostrar promedio de las materias aprobadas. Método 2: mostrar cantidad de materias aprobadas. Método 3: mostrar cantidad de materias faltantes. Método 4: mostrar materias con nota superior a 7 y menor 10. Package2-Clase2 - mostrar todos los métodos de la clase1.  
+Ejercicio35: Package - Clase1 - ingresar nombre, apellido. Método 1: mostrar nombre y apellido. Package2-Clase 2 - ingresar domicilio y tel. Método 1: mostrar domicilio y tel. Package3-Clase3 - llamar al método de la clase1 y al método de la clase2.  
+Ejercicio36: Package1-Clase1 Ingresar matriz 5x5 con múltiplos de 5 y otro método para mostrarla Package2-Clase2 Método ingresa vector de 10 posiciones y lo cargamos 
+  IRSO –     
+5  
+Método para mostrarlo Package3-Clase3 Ingresar matriz de 3x4 con números pares, mostrar la matriz Package4- Clase4  Llamar todos los métodos de package y clase 1, 2 y 3   Ejercicio37: Crear la clase animales, mostrar el nombre, peso y tipo de comida. Crear la clase alumno,  mostrar nombre apellido carrera que cursa Crear la clase bicicleta especifique el modelo, velocidad.  
+Ejercicio38: Package1 clase humano con sexo, nombre dirección,  Clase alumno con carrera, cantidad de materias aprobadas,  Clase ciudadano  con país de nacimiento, ciudad de origen. Package2 cargar los datos en una clase  y mostrar todo los métodos utilizando get-set.  
+Ejercicio39: Escriba la clase facturar, que tenga como atributos decimales la cantidad, el precio, un método constructor que no reciba argumento, un método constructor que inicialice los atributos de la clase y los correspondientes métodos get y set de cada atributo de la clase, además cree la función calcularventa y retorne el valor de la venta en base al siguiente criterio: Subtotal=cantidad*precio IVA=subtotal*0.13 Total=subtotal-IVA  
+en el programa principal lea los valores del precio del articulo y la cantidad solicitada por el usuario, luego pase estos datos a través del objeto creado en la instancia de la clase facturar, a la variable total a pagar asígnele el resultado que retorna la función calcularventa y finalmente imprima este resultado.  
+Ejercicio40: package  Clase persona: forma de alimentarse, movilidad, años de vida. Clase animal: forma de alimentarse, movilidad, años de vida. Clase vegetal: forma de alimentarse, movilidad, años de vida. Todo con variables. Clase A: tipo (de acuerdo al tipo mostrar los métodos de la determinada clase), nombre con get y set. Clase B: tipo (de acuerdo al tipo mostrar los métodos de la determinada clase), nombre con variables.  
+Ejercicio41: Ingresar un nombre de empresa con un capital Clase IVA: si el IVA si es 1 no hace nada, si es 2 hace el 5% de capital y si es 3=10% y devuelvo ese importe Clase Provincia: 1=8%, 2=0%, 3=11% Clase Sellos: el capital tiene que ser mayor a 50, le sumo a la variable por lo tanto.  A=10 B=5 C=20 D=20 Clase Ingresos brutos (IIBB): capital mayor a 100 y provincia1 ó 3 1=6%  2=7% Método “Calculo de pago” en clase empresa=capital + IVA – sellos + IIBB- provincia   
+Ejercicio42:  Generar un archivo de texto que contenga los siguientes datos de una persona Nombre, Apellido, DNI, Teléfono, Carrera y luego visualizar lo guardado en el txt.  
+Ejercicio43: Generar un archivo txt con los siguientes datos. 50 registros con los primeros números pares, agregar los 50 primeros números impares.  
+Ejercicio44: 
+  IRSO –     
+6  
+Mostrar por pantalla todos los datos de los objetos cuenta y cuentas en dólares correspondiente al cuit 301212121 OBJETO CUENTA:  Nombre Primer titular, Apellido Primer titular, Domicilio, Teléfono, Numero de cuenta. OBJETO CUENTA EN DOLARES: Hereda de objeto cuenta y tiene sus propios atributos Nombre segundo titular, Apellido segundo titular y Nro Cta, Cuit  
+Ejercicio 45: Tenemos la Clase Alumno con un método Pensar y su método constructor Alumno y la Clase Animal con un método Pensar y su método Constructor Animal. Tenemos la Clase tomar Decisiones con el método main, donde llamamos el método pensar de la clase Alumno y lo mostramos, y luego llamamos el método pensar de animal y lo mostramos.  
+Ejercicio 46: Clase instrumentos- nombre, método afinar "afinación para todos los instrumentos" Clase guitarra hereda de instrumentos- Nombre/tipo, método afinar "afinación de guitarra" Clase piano hereda de instrumentos- Nombre/tipo, método afinar "afinación de piano" Clase flauta hereda de instrumentos- Nombre/tipo, método afinar "afinación de flauta" Ingresar el tipo de instrumento y según cual es ejecutar el método afinar que corresponda.  
+Ejercicio 47: Generar una clase Jlabel (formulario) con el nombre y apellido (propio).  
+Ejercicio 48: Crear 3 objetos de la clase Jlabel, ubicarlos uno debajo del otro y mostrar nombres de colores.  
+Ejercicio 49: Confeccionar una ventana que contenga 3 objetos de la clase JButton, con las etiquetas "1" "2" "3" al presionarse cambiar el titulo de Jframe indicando que botón se presiono.  
+Ejercicio 50: Confeccionar un programa que permita ingresar 2 números en controles de tipo Jtextfile luego sumar los 2 valores ingresados y mostrar la suma en la barra del titulo Jframe.  
+Ejercicio 51: Disponer de 2 controles de Jtextarea luego presionar un botón verificar si tienen el mismo contenido y mostrarlo en la barra del titulo.  
+Ejercicio 52: Ingresar por una ventana 3 números, mostrar en el titulo el valor mayor.  
+Ejercicio 53: Crear Base de datos con el nombre Clientes1 Crear la tabla Cliente con Cliente (ID) int y su nombre (Descripción). Crear insertar 5 registros, mostrar únicamente los números de clientes mayores a 1000  
+Ejercicio 54: Crear BD Bancos Tabla Clientes – Nombre, Documento, Saldo, Cargar 10 registros. Todo lo anterior se debe realizar con el mysql. En java vamos a hacer una clase que inserte 3 registros en la tabla, y hacemos un select que muestre los documentos mayores a 25.000.000, También debemos hacer otro select y mostrar los saldos  mayores a $150  
+Ejercicio 55: Crear BD Profesionales Clase1, Crear tabla Médicos con Documento, Matricula, Nombre Clase2, Crear tabla Abogados con Documento, Matricula, Nombre 
+  IRSO –     
+7  
+Clase3, Cargar un par de datos en cada tabla Clase4, Seleccionar y mostrar  1) Mostrar médicos con matricula de los mayores a 80 2) Mostrar abogado matricula de los menores a 81  
+Ejercicio 56: Clase 1: Crear tabla datos con 1 campo que se llama B1 compuesto por enteros y es primary key. Clase 2: Insertar 1 registro Clase 3: Selección del registro, Mostrar en una venta el nombre del campo y el valor. Clase 4: Realizar lo mismo que la clase 3 pero a ese valor sumarle 100 y mostrarlo.  
+Ejercicio57: Ingresar un valor en la ventana y el valor ingresado se debe insertar un registro en la tabla datos del ejercicio 56. 
