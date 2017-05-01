@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class Ejercicios20 {
+public class Ejercicio20 {
 
 	public static void main(String[] args) {
 		/* Escribir un programa que pida ingresar la coordenada de un punto en el plano 
